@@ -1,5 +1,7 @@
-Created in 2025
+Created in 2025 @ 9th grade
 
-Built using Python and PyTorch
 This stock prediction project was built for Harvard Summer AI/ML Bootcamp.
-It uses stock market data and makes predictions on the next day/week based on historical patterns.
+* Built using Python and PyTorch
+
+How it work
+* It uses stock market data and makes predictions on the next day/week based on historical patterns.
